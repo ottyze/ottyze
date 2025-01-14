@@ -38,6 +38,7 @@ I am a passionate software engineer and recent Computer Science graduate from th
 ## 📫 Get in Touch
 - Email: Daniceisaya@gmail.com
 - LinkedIn: https://www.linkedin.com/in/isaya-danice/
+- Github: https://github.com/ottyze
   
 
 Feel free to explore my repositories and reach out for collaborations or discussions. Let’s build something great together! 🚀
