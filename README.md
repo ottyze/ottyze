@@ -27,6 +27,11 @@ I am a passionate software engineer and recent Computer Science graduate from th
 ### Certifications
 - Front-End Development Libraries Certification (CodeCamp)
 
+### Projects
+- Event Manager: https://ottyze.github.io/event-manager/
+- News Article Search: https://ottyze.github.io/react-news-article-search/
+- MERN movie web app: ongoing
+
 ## 🌟 Highlights
 - **Collaborative Control of Autonomous Cars**: Designed a system enabling seamless transitions between self-driving and human-controlled operations in the CARLA Simulator.
 - **Movie Web Application**: Developed a full-stack movie database using the MERN stack with user authentication and responsive design, deployed on AWS EC2.
