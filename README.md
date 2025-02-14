@@ -31,7 +31,7 @@ I am a passionate software engineer and recent Computer Science graduate from th
 - Event Manager: https://ottyze.github.io/event-manager/
 - News Article Search: https://ottyze.github.io/react-news-article-search/
 - MERN movie web app: ongoing
-- E-commerce website: https://vercel.com/ottyzes-projects/ravn-merchandise/GX4B4qA452Ho9Fo2FJNT8u4ANZUx
+- E-commerce website: https://ravn-merchandise.vercel.app
 
 ## 🌟 Highlights
 - **Collaborative Control of Autonomous Cars**: Designed a system enabling seamless transitions between self-driving and human-controlled operations in the CARLA Simulator.
